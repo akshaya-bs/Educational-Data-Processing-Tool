@@ -1,5 +1,5 @@
 # Educational-Data-Processing-Tool
-Project Description
+
 SchoolDataCleaner is a Python-based tool designed to clean and process educational data, specifically student and parent information. It transforms raw data from an Excel spreadsheet into a standardized format, handling various data cleaning tasks such as grade normalization, phone number formatting, and language standardization.
 
 Key Features:
